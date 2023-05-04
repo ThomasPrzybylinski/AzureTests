@@ -1,0 +1,9 @@
+{
+	"name": "FactoryEast",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb954cb4-0bd1-4ab6-916d-4ab816115486",
+		"tenantId": "c6f8362f-5c6c-4ef2-a99b-b83b6a69e3de"
+	}
+}
